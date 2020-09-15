@@ -1,1 +1,4 @@
-# stm32f429-ads1120-master
+# device driver
+- spi drive ads1120 read pt100(three-wire);
+- spi drive ms5611, read pressure(pa) and temperature(℃);
+- i2c drive ina226, get voltage, current, power;
