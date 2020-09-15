@@ -1,1 +1,1 @@
-ms5611 driver.
+spi drive ms5611.
